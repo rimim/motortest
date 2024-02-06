@@ -10,7 +10,7 @@
 
 ////////////////////////////////////////////////////////
 
-#define MESSAGE_SIZE 16
+#define MESSAGE_SIZE 17
 static uint8_t sBuffer[MESSAGE_SIZE*1024];
 
 int main(int argc, const char* argv[]) {
